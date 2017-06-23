@@ -2,7 +2,7 @@
 
 This is the first game I tried to make. It's a silly testing ground and not to be taken seriously.
 
-It can be played at https://david-rm.github.io/blokblok/
+It can be played at https://david-rm.github.io/blokblok/. Use 'a' and 'd' to move. Hold 'space' while moving to jump.
 
 ## Overview
 
